@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <div className="navbar bg-slate-200">
       <div className="flex-1">
-        <button className="btn btn-ghost text-xl">Rohan Verma</button>
+        <button className="btn btn-ghost text-xl">RV</button>
       </div>
       <div className="flex-none">
         <ul className="menu menu-horizontal px-1">
