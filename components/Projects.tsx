@@ -38,7 +38,7 @@ const Projects = () => {
               date={"Jan 2024 - Present"}
               imgsrc={neoui}
               desc={"A simple neubrutalism-style portfolio website theme to create a visually appealing and responsive portfolio to showcases your achievements."}
-              link={"https://www.google.com"}
+              link={"https://github.com/MODSetter/neubrutalism_portfolio"}
               title={"Neubrutalism Portfolio"}
               techused="Next.Js, Tailwind.css, Animate.css, AOS.css"
             />
