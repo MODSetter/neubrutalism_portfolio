@@ -1,4 +1,5 @@
 import Aboutme from "@/components/Aboutme";
+import Education from "@/components/Education";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 import Projects from "@/components/Projects";
@@ -13,6 +14,7 @@ export default function Home() {
       <Aboutme />
       <WorkExp />
       <Projects />
+      <Education />
       <Footer />
     </>
   );
