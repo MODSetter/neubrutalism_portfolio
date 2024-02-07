@@ -25,7 +25,7 @@ const Resconnect = () => {
               data-aos="fade-up"
               data-aos-duration="600"
             >
-              Experienced Full Stack Developer adept at leading teams, driving transformative projects, and leveraging a diverse technical skill set.
+              Full Stack Development | Digital Marketing (SEO/SMO/Paid Ads) and Cybersecurity (Exploits/Malware analysis). 
             </p>
           </div>{" "}
           <div className="w-full flex flex-col sm:flex-row sm:justify-center gap-2.5 my-8 md:my-12">
