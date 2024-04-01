@@ -25,7 +25,7 @@ const Resconnect = () => {
               data-aos="fade-up"
               data-aos-duration="600"
             >
-              Full Stack Development | Digital Marketing (SEO/SMO/Paid Ads) and Cybersecurity (Exploits/Malware analysis). 
+              Struggling Developer
             </p>
           </div>{" "}
           <div className="w-full flex flex-col sm:flex-row sm:justify-center gap-2.5 my-8 md:my-12">
