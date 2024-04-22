@@ -20,13 +20,6 @@ const Resconnect = () => {
                 Rohan Verma 
               </span>
             </h2>{" "}
-            <p
-              className="text-gray-900 mt-4 sm:mt-8 md:mt-12 text-lg sm:text-2xl xl:text-4xl aos-init aos-animate"
-              data-aos="fade-up"
-              data-aos-duration="600"
-            >
-              Struggling Developer
-            </p>
           </div>{" "}
           <div className="w-full flex flex-col sm:flex-row sm:justify-center gap-2.5 my-8 md:my-12">
             <Link

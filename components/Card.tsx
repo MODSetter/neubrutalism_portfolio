@@ -36,7 +36,7 @@ const Card = ({
               <b>Technology Used : </b> {techused}
             </p>
             <Link href={link} className="btn btn-error mt-2">
-              Read More
+              CheckOut This Project
             </Link>
           </div>
         </article>
