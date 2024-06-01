@@ -5,6 +5,8 @@ import cfc from "./images/cfct.png";
 import neoui from "./images/neoproj2.png";
 import lcpic from "./images/lcproj2.png";
 
+import nextblog from "./images/nextblog.png";
+
 const Projects = () => {
   return (
     <div className="py-6 sm:py-8 lg:py-12 my-20" id="Projects">
@@ -25,6 +27,14 @@ const Projects = () => {
             className="grid grid-cols-1 place-items-center justify-between lg:grid-cols-3 gap-14 p-10"
             data-svelte-h="svelte-1swfby4"
           >
+            <Card
+              date={"May 2024 - Present"}
+              imgsrc={nextblog}
+              desc={"Next-Blog is a out-of-box fast, SEO Friendly blogging based CMS supporting multiple themes, Notion like WYSIWYG editor with AI Assistant Writer, Modern Layouts ,Admin Dashboard and Custom Components."}
+              link={"https://github.com/MODSetter/next-blog"}
+              title={"Next-Blog"}
+              techused="Next.Js, Tailwind CSS, Tiptap, prosemirror, shadcn, zod, react-hook-forms, giscus, novel"
+            />
             <Card
               date={"Oct 2018 - Dec 2019"}
               imgsrc={cfc}

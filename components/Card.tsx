@@ -10,7 +10,7 @@ const Card = ({
   link,
   techused,
 }: {
-  imgsrc: StaticImageData;
+  imgsrc: StaticImageData | string;
   date: string;
   title: string;
   desc: string;
@@ -20,7 +20,7 @@ const Card = ({
   return (
     <div className="w-80 h-full border-black border-2 rounded-md hover:shadow-[8px_8px_0px_rgba(0,0,0,1)] bg-white" data-aos="flip-left">
       <div className="block cursor-pointer">
-        <article className="w-full h-full">
+        <article className="w-full h-full flex flex-col justify-between">
           <figure className="w-full h-1/2 border-black border-b-2">
             <Image
               src={imgsrc}

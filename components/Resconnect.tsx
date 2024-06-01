@@ -28,7 +28,7 @@ const Resconnect = () => {
               data-aos="fade-up"
               data-aos-duration="800"
               className="flex items-center justify-center rounded-full gap-2 border-4 lg:border-4 border-black bg-[#c08f8f] px-4 py-4 text-lg sm:px-4 sm:py-4 sm:text-sm md:px-12 md:py-6 md:text-2xl lg:px-12 lg:py-6 lg:text-2xl font-semibold shadow-[6px_6px_0_0_#000] transition hover:shadow-none aos-init aos-animate"
-              href="https://drive.google.com/file/d/1qZLQ9MZXAcHwNYCTKbNpbY7NNTIJ7yBp/view?usp=sharing"
+              href="https://drive.google.com/file/d/1Dvh0vWgEkg2xiT6jwMl0n4_CqZ_vTTi_/view?usp=sharing"
             >
               View Resume
             </Link>{" "}
