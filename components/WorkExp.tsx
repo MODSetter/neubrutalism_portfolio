@@ -39,25 +39,16 @@ const WorkExp = () => {
                     <div className="text-sm md:text-base leading-snug tetx-900 text-opacity-100 gap-4 flex flex-col p-4">
                       <ul className="list-disc">
                         <li>
-                          Developed 25+ responsive React components and Resolved
-                          almost 50 bugs, reducing nearly 25% of outstanding
-                          JIRA tickets in one sprint.
+                          Built custom full-stack CRM with React.js & PostgreSQL for Fortune 500 electric utilities company, boosting sales team productivity by 35% and cutting costs by 92% over Salesforce CRM.
                         </li>
                         <li>
-                          Led development of two Java-based batch programs for
-                          OpenText Extended ECM, resulting in a remarkable 30%
-                          improvement in file processing.
+                          Developed a Batch Framework in SpringBoot for a banking application, reducing code implementation time for future modules by nearly 87%.
                         </li>
                         <li>
-                          Delivered an in-house dealer management solution,
-                          achieving a 100% cost reduction by transitioning
-                          customers from Salesforce to the new platform.
+                          Re-architected legacy Java-based Backend (Apache Struts 2) to modern architectural framework (SpringBoot) for a Fortune 500 automotive company, increasing throughput, scalability, security & performance by 63%.
                         </li>
                         <li>
-                          Collaborated with senior consultants to finalize a
-                          comprehensive statement of work and spearheaded its
-                          development as a critical migration-type deliverable
-                          with my team.
+                          Led junior developer teams on two separate occasions to successfully deliver the MVPs of the new full-stack projects for a Fortune 500 oil industry company.
                         </li>
                       </ul>
                     </div>
@@ -82,19 +73,15 @@ const WorkExp = () => {
                     <div className="text-sm md:text-base leading-snug tetx-900 text-opacity-100 gap-4 flex flex-col p-4">
                       <ul className="list-disc">
                         <li>
-                          Developed and tested six robust RESTful microservices
-                          in Spring Boot, along with five responsive React
-                          components and 20 bugs in one sprint, reducing the
-                          JIRA workload by 30–40%.
+                          Developed REST-based microservices in a Spring Boot project to automate the initiation of instant refunds for canceled/returned products, leading to a remarkable 60% reduction in manual effort. Involved integrating APIs with dependent services.
                         </li>
                         <li>
-                          Contributed to two critical backend modules and
-                          actively contributed in architectural team meetings.
+                          Implemented highly available, fault-tolerant, and scalable event-driven architecture using Apache Kafka for analyzing and processing
+                          transactions in banking application, reducing manual monitoring by 33%.
                         </li>
                         <li>
-                          Developed and delivered a Batch Framework, reducing
-                          future batch code implementation time for modules by
-                          nearly 80%.
+                          Created GitLab CI/CD pipelines for cloud-native containerized microservices using Docker, enabling automated builds, testing, and
+                          deployments to Kubernetes, facilitating zero-downtime rolling updates.
                         </li>
                       </ul>
                     </div>
