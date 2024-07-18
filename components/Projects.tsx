@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "./Card";
-import mepic from "./images/mepic.png";
+import gptinsta from "./images/PORTFOL.png";
 import cfc from "./images/cfct.png";
 import neoui from "./images/neoproj2.png";
 import lcpic from "./images/lcproj2.png";
@@ -27,25 +27,28 @@ const Projects = () => {
             className="grid grid-cols-1 place-items-center justify-between lg:grid-cols-3 gap-14 p-10"
             data-svelte-h="svelte-1swfby4"
           >
+
             <Card
-              date={"May 2024 - Present"}
+              date={"July 2024"}
+              imgsrc={gptinsta}
+              desc={"A GPT-based autonomous multi-agent AI in Next.js that research & recommends Instagram Viral Posts reflecting your personality."}
+              link={"https://github.com/MODSetter/gpt-instagram"}
+              title={"GPT-INSTAGRAM"}
+              techused="Next.js, Tailwind CSS, Shadcn, LangChain.js, LangGraph.js"
+            />
+
+            <Card
+              date={"May 2024"}
               imgsrc={nextblog}
               desc={"Next-Blog is a out-of-box fast, SEO Friendly blogging based CMS supporting multiple themes, Notion like WYSIWYG editor with AI Assistant Writer, Modern Layouts ,Admin Dashboard and Custom Components."}
               link={"https://github.com/MODSetter/next-blog"}
               title={"Next-Blog"}
               techused="Next.Js, Tailwind CSS, Tiptap, prosemirror, shadcn, zod, react-hook-forms, giscus, novel"
             />
-            <Card
-              date={"Oct 2018 - Dec 2019"}
-              imgsrc={cfc}
-              desc={"A SEO-optimized website which leveraged incentive CPA affiliate networks and BlackHat SEO techniques to generate maximum profit. Was on the first page of Google for a year on multiple search terms, generating 5K page views per day and nearly 40x ROI."}
-              link={"https://web.archive.org/web/20210125225725/http://clashforacure.org/"}
-              title={"ClashForACure"}
-              techused="WordPress, BlackHat SEO, OnPage SEO, Off-Page SEO"
-            />
+
 
             <Card
-              date={"Jan 2024 - Present"}
+              date={"Jan 2024"}
               imgsrc={neoui}
               desc={"A simple neubrutalism-style portfolio website theme to create a visually appealing and responsive portfolio to showcases your achievements."}
               link={"https://github.com/MODSetter/neubrutalism_portfolio"}
@@ -60,6 +63,15 @@ const Projects = () => {
               link={"https://www.google.com"}
               title={"LazyCook"}
               techused="Flask, Scrapy, ElasticSearch, BootStrap"
+            />
+
+            <Card
+              date={"Oct 2018"}
+              imgsrc={cfc}
+              desc={"A SEO-optimized website which leveraged incentive CPA affiliate networks and BlackHat SEO techniques to generate maximum profit. Was on the first page of Google for a year on multiple search terms, generating 5K page views per day and nearly 40x ROI."}
+              link={"https://web.archive.org/web/20210125225725/http://clashforacure.org/"}
+              title={"ClashForACure"}
+              techused="WordPress, BlackHat SEO, OnPage SEO, Off-Page SEO"
             />
           </div>
         </div>
