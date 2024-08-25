@@ -27,6 +27,15 @@ const Projects = () => {
             className="grid grid-cols-1 place-items-center justify-between lg:grid-cols-3 gap-14 p-10"
             data-svelte-h="svelte-1swfby4"
           >
+{/* 
+            <Card
+              date={"aUG 2024"}
+              imgsrc={gptinsta}
+              desc={"A GPT-based autonomous multi-agent AI in Next.js that research & recommends Instagram Viral Posts reflecting your personality."}
+              link={"https://github.com/MODSetter/gpt-instagram"}
+              title={"GPT-INSTAGRAM"}
+              techused="Next.js, Tailwind CSS, Shadcn, LangChain.js, LangGraph.js"
+            /> */}
 
             <Card
               date={"July 2024"}
